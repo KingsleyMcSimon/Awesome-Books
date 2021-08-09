@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Awesome Books Project</title>
+</head>
+
+<body>
+  <div class="content">
+    <h1>Awesome Books</h1>
+
+    <div id="bookrack">
+      <template class="book">
+        <div class="real-book">
+          <div>
+            "<p>Book Title</p>"
+            by
+            <p>Book Author</p>
+          </div>
+          <button>Remove</button>
+        </div>
+      </template>
+    </div>
+
+    <br>
+    <div class="divisor"></div>
+
+    <div class="form">
+      <h3>Add a new book</h3>
+      <input type="text" id="title" placeholder="Title of the book...">
+      <br><br>
+      <input type="text" id="author" placeholder="Author of the book...">
+      <br><br>
+      <button id="add-book">Add</button>
+    </div>
+  </div>
+  
+  <script src="objects.js"></script>
+</body>
+
+</html>
