@@ -45,7 +45,7 @@ Run the following commands in the terminal in the next order:
 ## Authors
 
 
-👤 **Eduardo Rodriguez**
+👤 **Kingsley McSimon**
 
 * GitHub: [@KingsleyMcSimon]([KingsleyMcSimon](https://github.com/KingsleyMcSimon/Awesome-Books))
 
