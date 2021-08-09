@@ -45,14 +45,10 @@ Create a new folder/directory for the project
 👤 **Kingsley McSimon O**
 
 - GitHub: [@KingsleyMcSimon](https://github.com/KingsleyMcSimon)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Fernando R P Marques**
+👤 **Carlos Robles**
 
-- GitHub: [@fernandorpm](https://github.com/fernandorpm)
-- Twitter: [@rpm_fernando](https://twitter.com/rpm_fernando)
-- LinkedIn: [Fernando R P Marques](https://linkedin.com/in/fernandorpm)
+- GitHub: [@carlos-ssh](https://github.com/carlos-ssh)
 
 ## 🤝 Contributing
 
