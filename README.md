@@ -47,8 +47,8 @@ Run the following commands in the terminal in the next order:
 
 👤 **Kingsley McSimon**
 
-- GitHub: [@KingsleyMcSimon] [KingsleyMcSimon](https://github.com/KingsleyMcSimon)
-- LinkedIn: [Kingsley-McSimon] (https://www.linkedin.com/in/kingsley-mcsimon-o-44411517a/)
+- GitHub: [@KingsleyMcSimon](https://github.com/KingsleyMcSimon)
+- LinkedIn: [Kingsley-McSimon](https://www.linkedin.com/in/kingsley-mcsimon-o-44411517a/)
 
 👤 **Carlos Flores**
 
