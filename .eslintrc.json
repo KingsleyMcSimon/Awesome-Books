@@ -1,38 +1,22 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> a0a7b9af178de7cb63aa1e1f8e22017ef6970208
 {
-    "env": {
-      "browser": true,
-      "es6": true,
-      "jest": true
-    },
-    "parser": "babel-eslint",
-    "parserOptions": {
-      "ecmaVersion": 2018,
-      "sourceType": "module"
-    },
-    "extends": ["airbnb-base"],
-    "rules": {
-      "no-shadow": "off",
-      "no-param-reassign": "off",
-<<<<<<< HEAD
-      "eol-last": "off"
-=======
-      "eol-last": "off",
-      "import/extensions": [ 1, {
-        "js": "always", "json": "always"
-      }]
->>>>>>> a0a7b9af178de7cb63aa1e1f8e22017ef6970208
-    },
-    "ignorePatterns": [
-      "dist/",
-      "build/"
-    ]
-<<<<<<< HEAD
-  }
-  
-=======
-  }
->>>>>>> a0a7b9af178de7cb63aa1e1f8e22017ef6970208
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "extends": ["airbnb-base"],
+  "rules": {
+    "no-shadow": "off",
+    "no-param-reassign": "off",
+    "eol-last": "off"
+  },
+  "ignorePatterns": [
+    "dist/",
+    "build/"
+  ]
+}
