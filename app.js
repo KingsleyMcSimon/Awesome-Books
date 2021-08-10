@@ -38,3 +38,12 @@ function displayBooks(){
 
     });
 }
+
+window.onload = () => {
+    library = JSON.parse(localStorage.getItem('library'));
+    displayBooks();
+}
+
+function saveLibrary(){
+    localStorage.setItem('library', JSON.stringify(library));
+}
